@@ -6,7 +6,7 @@ This Level Will Also Teach You How To Interact With The Contract Through ABI.
 
 # Task Of This Level is to Authenticate Function with the password "ethernaut0".
 
-After Getting New Instance And Trypin contract in the Developer Console, All you need to do is to follow the command I will provide here in sequence. You Will Get You Level Cleared.
+After Getting New Instance And Typing contract in the Developer Console, All you need to do is to follow the command I will provide here in sequence. You Will Get You Level Cleared.
 
 1: await contract.info()
 
