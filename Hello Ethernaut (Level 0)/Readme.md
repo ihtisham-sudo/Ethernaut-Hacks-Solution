@@ -1,5 +1,5 @@
-# File with heading
-This Level is basically An Introduction To The Game.
+# This Level is basically An Introduction To The Game.
+
 
 This Level Will Teach You How To Interact With The Game.
 This Level Will Also Teach You How To Interact With The Contract Through ABI.
